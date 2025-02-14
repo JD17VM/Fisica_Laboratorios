@@ -1,6 +1,6 @@
-[!IMPORTANT] GitHub Pages Configuration
-
-This project uses specific configuration for GitHub Pages:
+> [!IMPORTANT] GitHub Pages Configuration
+> 
+> This project uses specific configuration for GitHub Pages:
 
 *   **`BrowserRouter`**: `basename="/LaunchLabVR-ArrowAscendVR-Web"`
 *   **`vite.config.js`**: `base: 'https://jd17vm.github.io/LaunchLabVR-ArrowAscendVR-Web'`
