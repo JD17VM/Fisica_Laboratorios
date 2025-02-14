@@ -1,4 +1,5 @@
-> [!IMPORTANT] GitHub Pages Configuration
+> [!IMPORTANT]
+> GitHub Pages Configuration
 > 
 > This project uses specific configuration for GitHub Pages:
 
