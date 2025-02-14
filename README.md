@@ -11,3 +11,7 @@ To run locally, revert to:
 *   **`vite.config.js`**: `base: '/'`
 
 Then, rebuild the project with Vite.
+
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
